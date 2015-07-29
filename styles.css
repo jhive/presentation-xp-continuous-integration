@@ -1,0 +1,89 @@
+html.intro {
+  background-color: #ecf0f1;
+}
+
+#term_demo.terminal {
+  width: 100%;
+  font-family: FreeMono, monospace;
+  color: #aaa;
+  background-color: #000;
+  font-size: 40px;
+  text-align: left;
+}
+
+#term_demo .terminal-output div{
+  padding: 10px;
+}
+
+#term_demo .prompt {
+  line-height: inherit;
+  padding-left: 20px;
+}
+
+.column {
+  display: block;
+  float: left;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+
+img.half {
+  box-sizing: border-box;
+  padding: 13px;
+}
+.half {
+  width: 50%;
+}
+
+.third {
+  width: 33%;
+}
+
+h1.top {
+  margin-top: -2em !important;
+}
+
+h2.top {
+  margin-top: -4em !important;
+}
+
+h2.top {
+}
+
+.bottom {
+  padding-top: 7em !important;
+}
+
+.twitter-profile {
+  position: absolute;
+  clip: rect(1em, 9.5em, 13em, 1em);
+}
+
+.oss-banner {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 13em;
+  width: 41em;
+  position: absolute;
+  left: -7em;
+  top: 1.5em;
+}
+
+.responsibilities p {
+}
+
+.responsibilities h3 {
+    font-size: 1.2em;
+    margin-bottom: 0;
+    margin-top: 0.6em;
+}

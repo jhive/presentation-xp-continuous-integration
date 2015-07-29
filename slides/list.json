@@ -1,0 +1,16 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {}
+    },
+    [
+        "the-practices.html",
+        "the-practices-support.html"
+    ],
+    [
+        "continuous-integration.html",
+        "ci-practices.html"
+    ],
+    "ci-tools.html",
+    "ci-responsibilities.html"
+]

@@ -1,0 +1,9 @@
+{
+  "name": "building-presentations-with-reveal",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "~2.6.1",
+    "reveal-highlight-themes": "~8.3.0",
+    "jquery.terminal": "~0.8.8"
+  }
+}
